@@ -5,17 +5,17 @@ The data used for parsing and calculations can be obtained from the Companies Ho
 
 ## Features
 
-•	Upload HTML files containing XBRL data using a REST API.
-•	Parse ix:nonNumeric and ix:nonFraction elements from the XBRL file.
-•	Log all operations using SLF4J.
+1. Upload HTML files containing XBRL data using a REST API.
+2. Parse ix:nonNumeric and ix:nonFraction elements from the XBRL file.
+3. Log all operations using SLF4J.
 
 # Getting Started
+
 ## Prerequisites
 
-•	Java 8 or higher
-•	Maven
-•	Spring Boot
-•	SLF4J and Logback for logging
+1. Java 8 or higherMaven
+2. Spring Boot
+3. SLF4J and Logback for logging
 
 # Installation
 
