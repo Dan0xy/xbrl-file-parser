@@ -1,5 +1,5 @@
 # xbrl-file-parser
-9
+
 This project provides a Spring Boot application that uploads and parses HTML files containing XBRL (eXtensible Business Reporting Language) data to extract financial information . The extracted data  are returned in a JSON format.
 The data used for parsing and calculations can be obtained from the Companies House monthly accounts data(https://download.companieshouse.gov.uk/en_monthlyaccountsdata.html). The files downloaded from this website can be uploaded to the application for parsing and analysis.
 
