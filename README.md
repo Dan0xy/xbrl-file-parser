@@ -7,7 +7,8 @@ The data used for parsing and calculations can be obtained from the Companies Ho
 
 1. Upload HTML files containing XBRL data using a REST API.
 2. Parse ix:nonNumeric and ix:nonFraction elements from the XBRL file.
-3. Log all operations using SLF4J.
+3. Perform financial calculations including Total Assets, Total Liabilities, Cash in Bank, Net Assets, and Debt Ratio.
+4. Log all operations using SLF4J.
 
 # Getting Started
 
